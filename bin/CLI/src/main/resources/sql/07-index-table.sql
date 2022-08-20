@@ -1,0 +1,1 @@
+CREATE INDEX IDX_COLOR ON dog(colorId)
